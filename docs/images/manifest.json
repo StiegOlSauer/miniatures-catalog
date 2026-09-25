@@ -1,0 +1,1340 @@
+{
+ "alien_carnomorph_fleshbeast.jpg": {
+  "hash": "3b25eec6b8c39d97867b0ff3e28dc6b4e89b54f5fc3d78bfbe4499148ac0140e",
+  "slug": "alien-carnomorph-fleshbeast",
+  "thumb_w": 480,
+  "thumb_h": 629
+ },
+ "alien_carnomorph_larva.jpg": {
+  "hash": "4908b1978b4532c56891e883961f37159f3df2a40065e09e28c182e834a7c54f",
+  "slug": "alien-carnomorph-larva",
+  "thumb_w": 480,
+  "thumb_h": 487
+ },
+ "alien_carnomorph_queen.jpg": {
+  "hash": "46e3ea0a236591786d8f7ff789aea984a7944a87a39be8993f614b7225ca321f",
+  "slug": "alien-carnomorph-queen",
+  "thumb_w": 480,
+  "thumb_h": 611
+ },
+ "alien_carnomorph_shambler.jpg": {
+  "hash": "6697c2553cda3426b78dd697d44c39f8bca905c5116c7df1523300573c5025a2",
+  "slug": "alien-carnomorph-shambler",
+  "thumb_w": 480,
+  "thumb_h": 529
+ },
+ "alien_chytrid_deathcap.jpg": {
+  "hash": "04235fb9b7f6dd27ebd000145187cf06665ba9d305aadfa6bc41bf9cf317f9f6",
+  "slug": "alien-chytrid-deathcap",
+  "thumb_w": 480,
+  "thumb_h": 527
+ },
+ "alien_chytrid_queen.jpg": {
+  "hash": "bf22662cfcd06e9218b6a773499c2a32e94f62ea2df94472e338ded1c76a254e",
+  "slug": "alien-chytrid-queen",
+  "thumb_w": 480,
+  "thumb_h": 688
+ },
+ "alien_chytrid_stinkhorn.jpg": {
+  "hash": "2ec6cd1523748ac659c68dc11b84d0e55c188aa9fd26617cc0d20df08b06153c",
+  "slug": "alien-chytrid-stinkhorn",
+  "thumb_w": 480,
+  "thumb_h": 541
+ },
+ "alien_chytrid_tentacle.jpg": {
+  "hash": "26c4d8f1e02bf38210e31aa7d0b8c405260ef172cf1b781776090240a3e8b8b2",
+  "slug": "alien-chytrid-tentacle",
+  "thumb_w": 480,
+  "thumb_h": 521
+ },
+ "alien_intruder_adult_1.jpg": {
+  "hash": "2d068953ec11251ee63b713c13f9142033ab3029a30a0bf15c1ddde1d26a4520",
+  "slug": "alien-intruder-adult-1",
+  "thumb_w": 480,
+  "thumb_h": 638
+ },
+ "alien_intruder_adult_2.jpg": {
+  "hash": "9138945a7464a25d83eeba79860675ca55202c6ada48f0994e5748c721ed469a",
+  "slug": "alien-intruder-adult-2",
+  "thumb_w": 480,
+  "thumb_h": 597
+ },
+ "alien_intruder_brute.jpg": {
+  "hash": "0d08a32b8df718c4a984b128163fa40b13d3146e9085f8ad2451dbb5e2294b72",
+  "slug": "alien-intruder-brute",
+  "thumb_w": 480,
+  "thumb_h": 646
+ },
+ "alien_intruder_crawler.jpg": {
+  "hash": "62e01b9ea3e5e8fd0c91cbd34735da6508cac152371d43d831f9775d8fa26747",
+  "slug": "alien-intruder-crawler",
+  "thumb_w": 480,
+  "thumb_h": 325
+ },
+ "alien_intruder_larva.jpg": {
+  "hash": "48eb1e557a4be5798b95434ae1cdfc532347013fbe6dddaece38d4ab98cc8dc9",
+  "slug": "alien-intruder-larva",
+  "thumb_w": 480,
+  "thumb_h": 454
+ },
+ "alien_intruder_queen.jpg": {
+  "hash": "c8872f529d0d86c66e534299463c6cfd5ed176639ec94832dd8ebf66c87a23dc",
+  "slug": "alien-intruder-queen",
+  "thumb_w": 480,
+  "thumb_h": 607
+ },
+ "alien_neoflesh_cultist.jpg": {
+  "hash": "ce0c5946acb8ee56dc4bceefc46e43dca0c2e624eebaf9c718cc4c604d78a557",
+  "slug": "alien-neoflesh-cultist",
+  "thumb_w": 480,
+  "thumb_h": 637
+ },
+ "alien_neoflesh_delver_1.jpg": {
+  "hash": "cc343bc10ffd9f94b27e1042ad45049c671dfb6ecf7b35bd3adccab4c952ffc4",
+  "slug": "alien-neoflesh-delver-1",
+  "thumb_w": 480,
+  "thumb_h": 435
+ },
+ "alien_neoflesh_delver_2.jpg": {
+  "hash": "61686752779ee31d9ac9e8e261357aa65a1fe4ba2c10a957800107034aa05183",
+  "slug": "alien-neoflesh-delver-2",
+  "thumb_w": 480,
+  "thumb_h": 509
+ },
+ "alien_neoflesh_delver_3.jpg": {
+  "hash": "3a137e80a904aab488050d9a7b2520d52c68b3d1a4da2b43311130f44c45bd68",
+  "slug": "alien-neoflesh-delver-3",
+  "thumb_w": 480,
+  "thumb_h": 483
+ },
+ "alien_neoflesh_delver_4.jpg": {
+  "hash": "7a0ff35e8c3b4c61e6abfad231af6c51db4038ccc83e7e0ddf21cd4c796d013e",
+  "slug": "alien-neoflesh-delver-4",
+  "thumb_w": 480,
+  "thumb_h": 443
+ },
+ "alien_neoflesh_queen.jpg": {
+  "hash": "7268bcd1981faffe308f12c62cb406cfeaeb37ea1f76c827bdca16fb87ee15ea",
+  "slug": "alien-neoflesh-queen",
+  "thumb_w": 480,
+  "thumb_h": 514
+ },
+ "alien_neoflesh_twitchling.jpg": {
+  "hash": "00c6b4897816c29e446db9876e797b50fc619aef0185fb4d8ca053161ee4663e",
+  "slug": "alien-neoflesh-twitchling",
+  "thumb_w": 480,
+  "thumb_h": 242
+ },
+ "alien_primeblood_queen.jpg": {
+  "hash": "828135cbfe89df02b311f36963ca0094057118d2b52a202d8d5fb784b31bf291",
+  "slug": "alien-primeblood-queen",
+  "thumb_w": 480,
+  "thumb_h": 382
+ },
+ "animal_ant_m.jpg": {
+  "hash": "f7a404fc67ca8d161be4999c5dcdbdd065b8774128b57e5602ea3e5743c3af92",
+  "slug": "animal-ant-m",
+  "thumb_w": 480,
+  "thumb_h": 549
+ },
+ "animal_bear_2.jpg": {
+  "hash": "036f2491d2a05d8395f768e38505cde45bf2ccbacef665ba0c38ae02cb0f776a",
+  "slug": "animal-bear-2",
+  "thumb_w": 480,
+  "thumb_h": 564
+ },
+ "animal_bear_l.jpg": {
+  "hash": "fe853e8805406e15241492cf5109d8e3ee1c20141a1d8147d96232df6a05cb7f",
+  "slug": "animal-bear-l",
+  "thumb_w": 480,
+  "thumb_h": 582
+ },
+ "animal_boar_m.jpg": {
+  "hash": "fb01477c80cce6b8e8340ca6cdfd506d7b9029fc1fb98617cf46ffd23ee2eaac",
+  "slug": "animal-boar-m",
+  "thumb_w": 480,
+  "thumb_h": 611
+ },
+ "animal_cat_s.jpg": {
+  "hash": "6e4b5f4326f6c0596a6529d348831fa4609c451b67cd71fdbd62c4b3345b76c8",
+  "slug": "animal-cat-s",
+  "thumb_w": 480,
+  "thumb_h": 424
+ },
+ "animal_dire_wolf.jpg": {
+  "hash": "5d8625d576c67d2056106b5df593fcb4cd914a5bb8c6cb4aafa37437e9ab8816",
+  "slug": "animal-dire-wolf",
+  "thumb_w": 480,
+  "thumb_h": 472
+ },
+ "animal_eagle.jpg": {
+  "hash": "eec98993e8ca90e317dfddd18188ccf2b8c62acef265c551fc422c33a0332c02",
+  "slug": "animal-eagle",
+  "thumb_w": 480,
+  "thumb_h": 573
+ },
+ "animal_falcon_s.jpg": {
+  "hash": "f8605a44e724b9011e09ec298dd7d75a98578a069a3146555b70494ab14b491d",
+  "slug": "animal-falcon-s",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "animal_giant_scorpion.jpg": {
+  "hash": "53a2eb61dd323aa4569494181ad6a9c8d3e4204667c325cd605f329eb3db8359",
+  "slug": "animal-giant-scorpion",
+  "thumb_w": 480,
+  "thumb_h": 424
+ },
+ "animal_giant_snake.jpg": {
+  "hash": "90c91b81b4d30002716fb9696ee93c1a47941f4fd330213745600ca9cbbcdf1e",
+  "slug": "animal-giant-snake",
+  "thumb_w": 480,
+  "thumb_h": 528
+ },
+ "animal_giant_spider.jpg": {
+  "hash": "fd5904839c89f33d9cd700e2b8f309863322086eb96545a15c897033bc190865",
+  "slug": "animal-giant-spider",
+  "thumb_w": 480,
+  "thumb_h": 491
+ },
+ "animal_giant_wolf.jpg": {
+  "hash": "ee21231f7324b839ea97b0d659ea48d48ef7520f6009309c8d693c918a1fabef",
+  "slug": "animal-giant-wolf",
+  "thumb_w": 480,
+  "thumb_h": 385
+ },
+ "animal_lizard_s.jpg": {
+  "hash": "664076994e5b7b1263fde74bb5d6b8f3f586099e5b3f2501904609e4b7bf0d6f",
+  "slug": "animal-lizard-s",
+  "thumb_w": 480,
+  "thumb_h": 459
+ },
+ "animal_mastiff_s.jpg": {
+  "hash": "3212f76c05d681b695b527287e828f20e068fb5145e06bdc27aa7f68d066961c",
+  "slug": "animal-mastiff-s",
+  "thumb_w": 480,
+  "thumb_h": 419
+ },
+ "animal_octopus_s.jpg": {
+  "hash": "df8ba5e8f36c239f462a55f7db94f001a7aeb79cdd85280d9150022c888d0f3a",
+  "slug": "animal-octopus-s",
+  "thumb_w": 480,
+  "thumb_h": 476
+ },
+ "animal_rat.jpg": {
+  "hash": "c688f6adfac01cf308eb63a4f9f4181f4df002aa4eb21b3a71e734501762f8a1",
+  "slug": "animal-rat",
+  "thumb_w": 480,
+  "thumb_h": 439
+ },
+ "animal_toad_s.jpg": {
+  "hash": "1efb4b917855a9a2f00a3108628ce522572f031d89b18efc4b3232934b9c933e",
+  "slug": "animal-toad-s",
+  "thumb_w": 480,
+  "thumb_h": 576
+ },
+ "animal_wolf.jpg": {
+  "hash": "b46e2990bb96b3a669618ef4dd4088710559ad23e5be52316158dc3e9745b6eb",
+  "slug": "animal-wolf",
+  "thumb_w": 480,
+  "thumb_h": 587
+ },
+ "beastfolk_lion_m.jpg": {
+  "hash": "e93d4e8dae1a9ad844080cdd138a9774b0eeed65cba9598751c4473ce6e0f32e",
+  "slug": "beastfolk-lion-m",
+  "thumb_w": 480,
+  "thumb_h": 539
+ },
+ "boss_azatoth.jpg": {
+  "hash": "91811461dd13b6f4bf62e49c8d9fa13e67c8665ee94f2e574f7bde192d798735",
+  "slug": "boss-azatoth",
+  "thumb_w": 480,
+  "thumb_h": 440
+ },
+ "boss_demon_lord.jpg": {
+  "hash": "406be3d503d9693a9752caab1f73933396965b3183970e0058572b8ab9b766db",
+  "slug": "boss-demon-lord",
+  "thumb_w": 480,
+  "thumb_h": 526
+ },
+ "boss_dragon.jpg": {
+  "hash": "294f0910d716d074a2a0d819fb75eeed2f957d3e6f4beaf427e3859d9b078675",
+  "slug": "boss-dragon",
+  "thumb_w": 480,
+  "thumb_h": 254
+ },
+ "boss_erdhard.jpg": {
+  "hash": "ed00abe96df6f06938d3eb970e1da1f8256375ae7825398710aabe0e27c2b0e1",
+  "slug": "boss-erdhard",
+  "thumb_w": 480,
+  "thumb_h": 600
+ },
+ "boss_fallen_sister.jpg": {
+  "hash": "4640449ced1641394e6db0f3493b09b8624a62d93f4cb226b7423fb3dcec1609",
+  "slug": "boss-fallen-sister",
+  "thumb_w": 480,
+  "thumb_h": 741
+ },
+ "boss_jonas.jpg": {
+  "hash": "6081203aef93a58bdd34d4f122bc4557525e5792610dcd3e2aa2d3da26c112a4",
+  "slug": "boss-jonas",
+  "thumb_w": 480,
+  "thumb_h": 596
+ },
+ "boss_lich.jpg": {
+  "hash": "535c3f33a0139bcfdd6f7acb62edfcd00d5744070ab5907b755c553c9598778e",
+  "slug": "boss-lich",
+  "thumb_w": 480,
+  "thumb_h": 804
+ },
+ "boss_razbaal.jpg": {
+  "hash": "68f835e9a38fc8ac90c9b6567646f11afeba08d5d2428a9132ae5ccff0973f6d",
+  "slug": "boss-razbaal",
+  "thumb_w": 480,
+  "thumb_h": 600
+ },
+ "boss_soul_harvester.jpg": {
+  "hash": "a5ae9203c1a2fdfeae3c46841f879e418b0c28ab3e0a081da28e21f922386e92",
+  "slug": "boss-soul-harvester",
+  "thumb_w": 480,
+  "thumb_h": 568
+ },
+ "boss_thern.jpg": {
+  "hash": "8e2d6da88978c6dc5f02384d23942e7fef5255edf39afcfeec14ea4090e653b7",
+  "slug": "boss-thern",
+  "thumb_w": 480,
+  "thumb_h": 543
+ },
+ "boss_tsathoggua.jpg": {
+  "hash": "e301b4d58e87c4a7d0e7ff47d8d131bc7f2448f33f445d7223b8906e696c9d49",
+  "slug": "boss-tsathoggua",
+  "thumb_w": 480,
+  "thumb_h": 582
+ },
+ "boss_twins.jpg": {
+  "hash": "662da5a7484a93ea605e83485a936781bd125b5ac1c79df4b9f4e3571d0db0d5",
+  "slug": "boss-twins",
+  "thumb_w": 480,
+  "thumb_h": 503
+ },
+ "boss_wermunggdir.jpg": {
+  "hash": "654c7c8f50e291317b24e9dfd79f7016ed165e3ea9051a1e03362528f58fa183",
+  "slug": "boss-wermunggdir",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "demon_abomination.jpg": {
+  "hash": "823087318514f154a2290723c9b85dd2cb07e6935a8f00969545c8dde5ede327",
+  "slug": "demon-abomination",
+  "thumb_w": 480,
+  "thumb_h": 647
+ },
+ "demon_bone_reaper.jpg": {
+  "hash": "816be71672942cdfa6e07db6b7c44a0096c47e5ebe49e9353aeee972398e15ba",
+  "slug": "demon-bone-reaper",
+  "thumb_w": 480,
+  "thumb_h": 520
+ },
+ "demon_chain_ball_l.jpg": {
+  "hash": "180c1140759c533d2848e7fcfcf557b9db37b64882fa7ba619b1c66477a4e7d6",
+  "slug": "demon-chain-ball-l",
+  "thumb_w": 480,
+  "thumb_h": 583
+ },
+ "demon_guardian.jpg": {
+  "hash": "15b3ec56a75c27fcabd6e58f8982ecd030f23bf64472dd93e75c936447145682",
+  "slug": "demon-guardian",
+  "thumb_w": 480,
+  "thumb_h": 443
+ },
+ "demon_hellhound_m.jpg": {
+  "hash": "59d6f183ef331b8bb0aeea0b75ae219ee6449cfd686534154fb84e4b14d2675e",
+  "slug": "demon-hellhound-m",
+  "thumb_w": 480,
+  "thumb_h": 602
+ },
+ "demon_hellspawn.jpg": {
+  "hash": "8bdb35c9384080087ccb3440b991fb1cdb20740b2799a262b20343b460b1e792",
+  "slug": "demon-hellspawn",
+  "thumb_w": 480,
+  "thumb_h": 567
+ },
+ "demon_imp_s.jpg": {
+  "hash": "56eebd39886607378579878450d7c5370a0e0fa437056ca1ca9aa46051ce0b01",
+  "slug": "demon-imp-s",
+  "thumb_w": 480,
+  "thumb_h": 583
+ },
+ "demon_mephit_m.jpg": {
+  "hash": "5fb823711645823dab886cf6cf73535bae82016a673c392fa2960205ececcd5a",
+  "slug": "demon-mephit-m",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "demon_ravager.jpg": {
+  "hash": "7cd15c0f83c8c958340ba257e5cc4bcacd1ee9120cb5639f8ceb96d483908744",
+  "slug": "demon-ravager",
+  "thumb_w": 480,
+  "thumb_h": 568
+ },
+ "demon_scout.jpg": {
+  "hash": "e15361f11215562b2252121fcb2da626be8ceb06cc31b3bb1964d543902fcfa3",
+  "slug": "demon-scout",
+  "thumb_w": 480,
+  "thumb_h": 468
+ },
+ "fae_driad_m.jpg": {
+  "hash": "46750ddc7b218eac592bdb28e48674d8595f40ebf3d64c3929e3f738aac64963",
+  "slug": "fae-driad-m",
+  "thumb_w": 480,
+  "thumb_h": 583
+ },
+ "fae_flammeum.jpg": {
+  "hash": "ead20888c70aa0e7b981ebdc26ac67c158c0e3c96a40a6dbcda63cae38636028",
+  "slug": "fae-flammeum",
+  "thumb_w": 480,
+  "thumb_h": 380
+ },
+ "fishfolk_drone.jpg": {
+  "hash": "56275d7a7fd40ec42edef1d94ed2eebf468726e43208af2a48f2063fc264e3c1",
+  "slug": "fishfolk-drone",
+  "thumb_w": 480,
+  "thumb_h": 791
+ },
+ "fishfolk_hunter.jpg": {
+  "hash": "9b221f0ef191bbcdb9bf3f477b10f43f1a2590d73f82f93058c8fb7b8760f83f",
+  "slug": "fishfolk-hunter",
+  "thumb_w": 480,
+  "thumb_h": 450
+ },
+ "fishfolk_ladyclaw.jpg": {
+  "hash": "0986024ec402af401ea714cb4d934405141ddc5b2886585a635551664cac3a93",
+  "slug": "fishfolk-ladyclaw",
+  "thumb_w": 480,
+  "thumb_h": 594
+ },
+ "fishfolk_pike.jpg": {
+  "hash": "7e43bcaad601919d11ac5cdc5054607c7457e1348586518409e9f45f97e3edd3",
+  "slug": "fishfolk-pike",
+  "thumb_w": 480,
+  "thumb_h": 572
+ },
+ "giant_ettin_club_xl.jpg": {
+  "hash": "e8ebab67fd6029adcd5579d1f18204ef2e7229be6201a34a1b56808ae5c6905e",
+  "slug": "giant-ettin-club-xl",
+  "thumb_w": 480,
+  "thumb_h": 460
+ },
+ "giant_ogre_xl.jpg": {
+  "hash": "13024b8126f07a3b41bb031b9271684847f996ad5d8f75bbac7109e1991238a4",
+  "slug": "giant-ogre-xl",
+  "thumb_w": 480,
+  "thumb_h": 393
+ },
+ "goblin_archer.jpg": {
+  "hash": "68ee0447f21da34ca0a4f6ad45dcac14bf2fa63607d5d521fb428de4c9326250",
+  "slug": "goblin-archer",
+  "thumb_w": 480,
+  "thumb_h": 536
+ },
+ "goblin_assassin.jpg": {
+  "hash": "ae98b2c0b44e1e3e61309276146c29dffb9eea18b9446ed9bc025a903964aa3b",
+  "slug": "goblin-assassin",
+  "thumb_w": 480,
+  "thumb_h": 500
+ },
+ "goblin_fighter_sword.jpg": {
+  "hash": "20c4715b5674f75ed43f69bda45c063424e3b90d11f469b2cdd2f240c4b0edb8",
+  "slug": "goblin-fighter-sword",
+  "thumb_w": 480,
+  "thumb_h": 506
+ },
+ "goblin_fighter_whip.jpg": {
+  "hash": "72c2079571b1002f39ae48a9dff077eed95890935ac58c640d0ec9844ae2fed9",
+  "slug": "goblin-fighter-whip",
+  "thumb_w": 480,
+  "thumb_h": 560
+ },
+ "goblin_horde.jpg": {
+  "hash": "18da7551327296d4e4ed669d8849b78c9cc8672fcb17e0b84691bfea7b81a30e",
+  "slug": "goblin-horde",
+  "thumb_w": 480,
+  "thumb_h": 627
+ },
+ "goblin_shield_knife_s.jpg": {
+  "hash": "7fcbf86ed79f7bad6844b43b1cba51bc24b10b6fec9f97741070e64b9eb5cd0c",
+  "slug": "goblin-shield-knife-s",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "goblin_slingshot.jpg": {
+  "hash": "0283d8edf9c6e87e0e5b5585fd8a563424779a35bfe26e8a69b2b0d606c58671",
+  "slug": "goblin-slingshot",
+  "thumb_w": 480,
+  "thumb_h": 586
+ },
+ "goblin_spider_rider.jpg": {
+  "hash": "484fd9ecfe0d0b08e214d290b2fef47c93987b744c04b4f173c96d86e3651014",
+  "slug": "goblin-spider-rider",
+  "thumb_w": 480,
+  "thumb_h": 588
+ },
+ "goblin_tsar.jpg": {
+  "hash": "a66eade6d111846ff5ea79e723034dd6b580b61cbc239efe9563dcf1e343cf17",
+  "slug": "goblin-tsar",
+  "thumb_w": 480,
+  "thumb_h": 632
+ },
+ "goblin_witch.jpg": {
+  "hash": "4af1945a5535946b3e02df13d52117a8bb2d52ef462b20efd8ea90f7c86d1106",
+  "slug": "goblin-witch",
+  "thumb_w": 480,
+  "thumb_h": 590
+ },
+ "hero_aki.jpg": {
+  "hash": "09db9b4812223dc9f5f5bf5b6a389fb2f8fa27fb2976434dc7d4f7fa6ec3bc38",
+  "slug": "hero-aki",
+  "thumb_w": 480,
+  "thumb_h": 530
+ },
+ "hero_andreas_knight.jpg": {
+  "hash": "9687caa5612a06aaef5986e7903c8c6054388f8acdbb34925010bcbd0508af31",
+  "slug": "hero-andreas-knight",
+  "thumb_w": 480,
+  "thumb_h": 654
+ },
+ "hero_arkhanos_mage.jpg": {
+  "hash": "122e4428a3b7d4c51aef7dfe96ae674ffe375cafbec0e2c6ea1670ca7885b3db",
+  "slug": "hero-arkhanos-mage",
+  "thumb_w": 480,
+  "thumb_h": 676
+ },
+ "hero_azriel_swordmage.jpg": {
+  "hash": "03298ae4fdd37a9d423b49fda21f79a6866756fb4bc4884fec64cdf4ce6ea467",
+  "slug": "hero-azriel-swordmage",
+  "thumb_w": 480,
+  "thumb_h": 650
+ },
+ "hero_barak_sorcerer.jpg": {
+  "hash": "55e4b7791b6c33b3596b0a57a830eb2c4999b848056f85051d6000ddfcb969cb",
+  "slug": "hero-barak-sorcerer",
+  "thumb_w": 480,
+  "thumb_h": 468
+ },
+ "hero_barbarian.jpg": {
+  "hash": "24e53c871a532d34f76547ef00fa9682baeb82f5e29e88f0a6b8c2a71c620242",
+  "slug": "hero-barbarian",
+  "thumb_w": 480,
+  "thumb_h": 581
+ },
+ "hero_bard.jpg": {
+  "hash": "87d6e975d05580280c216c4d8e9dc6b2b56d9f2a8684a1446222ca8e7b71b040",
+  "slug": "hero-bard",
+  "thumb_w": 480,
+  "thumb_h": 525
+ },
+ "hero_baumann_medic.jpg": {
+  "hash": "cd406236b6f156e54b06617369533b35c0fe2f7037b8de806f339b6e4ae65972",
+  "slug": "hero-baumann-medic",
+  "thumb_w": 480,
+  "thumb_h": 720
+ },
+ "hero_bergmann_man_at_arms.jpg": {
+  "hash": "ccaebe41157853ae2ec38c2000467af8f45198b3fb24eea40998f7428757189f",
+  "slug": "hero-bergmann-man-at-arms",
+  "thumb_w": 480,
+  "thumb_h": 653
+ },
+ "hero_borgron.jpg": {
+  "hash": "d13f287bfe112c05fba0ffd2be5779b3200b1ffa354e020bd8e01577d2d88f5b",
+  "slug": "hero-borgron",
+  "thumb_w": 480,
+  "thumb_h": 518
+ },
+ "hero_brawler.jpg": {
+  "hash": "36cb59a4142be0c2b37fe48ee4ac72fe750007b9de4416b2ee94c6e9ae15fd57",
+  "slug": "hero-brawler",
+  "thumb_w": 480,
+  "thumb_h": 504
+ },
+ "hero_catharina_mage.jpg": {
+  "hash": "a5ad6920da1361748b381c533ad7763e31fa57059fcd74d486a0639d356e1c82",
+  "slug": "hero-catharina-mage",
+  "thumb_w": 480,
+  "thumb_h": 621
+ },
+ "hero_cleric.jpg": {
+  "hash": "f9b956b43c51e7002b1cc60e44f670d06a793ba1201223acbeddf222ba47d7f5",
+  "slug": "hero-cleric",
+  "thumb_w": 480,
+  "thumb_h": 496
+ },
+ "hero_cleric_gnome.jpg": {
+  "hash": "db51cfc1e790c6d0bbf27e38be016a8a792691a2da42c3f4ebb90916cf08a62e",
+  "slug": "hero-cleric-gnome",
+  "thumb_w": 480,
+  "thumb_h": 501
+ },
+ "hero_devron_vampire.jpg": {
+  "hash": "5569e6a1b120d16984d52c7bde01357a14e6f4ada5577beb878066a10c07f671",
+  "slug": "hero-devron-vampire",
+  "thumb_w": 480,
+  "thumb_h": 471
+ },
+ "hero_diana_swordmage.jpg": {
+  "hash": "35e9750925063d07e0c21439b2d5b4553c30feea27dfe37320c59b45457a7fd0",
+  "slug": "hero-diana-swordmage",
+  "thumb_w": 480,
+  "thumb_h": 484
+ },
+ "hero_drasek_palladin.jpg": {
+  "hash": "a3f41c2303294ebace773cbfcd0b6b4332c37345ed4bdeefc6d0c0753179f2c4",
+  "slug": "hero-drasek-palladin",
+  "thumb_w": 480,
+  "thumb_h": 611
+ },
+ "hero_drixx_warlord.jpg": {
+  "hash": "35a1b17b5c4655a1dbac536c2be6d6073c55ab083902d3fc4824d42ccc4a21de",
+  "slug": "hero-drixx-warlord",
+  "thumb_w": 480,
+  "thumb_h": 554
+ },
+ "hero_duncan_warrior.jpg": {
+  "hash": "a8e763d23703a369134f33f19f98d4b7d18b03441e2e374bac3813422c17dc1d",
+  "slug": "hero-duncan-warrior",
+  "thumb_w": 480,
+  "thumb_h": 534
+ },
+ "hero_dwarf.jpg": {
+  "hash": "e81205c2994f7b55f459395c42a86206670df32c1411ebf78544caff6a8ebf17",
+  "slug": "hero-dwarf",
+  "thumb_w": 480,
+  "thumb_h": 396
+ },
+ "hero_elena_huntress.jpg": {
+  "hash": "e2640e916398e278662af0f720a35c5b6565b833e4c42f884a0fc551c8ba38cc",
+  "slug": "hero-elena-huntress",
+  "thumb_w": 480,
+  "thumb_h": 723
+ },
+ "hero_elros_assassin.jpg": {
+  "hash": "cf63af91665601f82937d94abf5ce0901efbef033c8a81e2d36fbf475be4639b",
+  "slug": "hero-elros-assassin",
+  "thumb_w": 480,
+  "thumb_h": 650
+ },
+ "hero_flavian_bard.jpg": {
+  "hash": "572069dd936114b93e4d04238b21a63a9b358a6b2ef5f3c66af50c69a34e7101",
+  "slug": "hero-flavian-bard",
+  "thumb_w": 480,
+  "thumb_h": 487
+ },
+ "hero_goblin.jpg": {
+  "hash": "f79ee8eb8469f67624eac41e491ae0a3ea2a56df3532eb1db711ff0310e579af",
+  "slug": "hero-goblin",
+  "thumb_w": 480,
+  "thumb_h": 423
+ },
+ "hero_gramosh_shaman.jpg": {
+  "hash": "f726305fd28a5a4367f1f6bafd897cf8225821794955dabb3f456624a7b2a113",
+  "slug": "hero-gramosh-shaman",
+  "thumb_w": 480,
+  "thumb_h": 797
+ },
+ "hero_halfling.jpg": {
+  "hash": "7d59bb04687dc2bf392ab1cc3d17ad472a653081fb2fb4a64fff9673af319117",
+  "slug": "hero-halfling",
+  "thumb_w": 480,
+  "thumb_h": 483
+ },
+ "hero_handuriel_ranger.jpg": {
+  "hash": "355dced74e24ae67ac60cacc1d153f4cb6f070cc42cc5fcc0387f3d4bab0cff6",
+  "slug": "hero-handuriel-ranger",
+  "thumb_w": 480,
+  "thumb_h": 665
+ },
+ "hero_herbod.jpg": {
+  "hash": "b7911c3c6d7bfd2830e95817e57ba96eba058e1553511ab1a49711bc1f5c74df",
+  "slug": "hero-herbod",
+  "thumb_w": 480,
+  "thumb_h": 542
+ },
+ "hero_jade_palladin.jpg": {
+  "hash": "c162e1144697001ec975f76732fff2bfbea3237c0b2b9a07c17857ac6261e80f",
+  "slug": "hero-jade-palladin",
+  "thumb_w": 480,
+  "thumb_h": 713
+ },
+ "hero_jaheen_cleric.jpg": {
+  "hash": "8bfd3f39d5d1de6634bce86fc670a9f004e41f136601adf3823617ce216a1b3c",
+  "slug": "hero-jaheen-cleric",
+  "thumb_w": 480,
+  "thumb_h": 760
+ },
+ "hero_katarina_barbarian.jpg": {
+  "hash": "6ba8f26b6884ab533f0cd80c0724398774976a76a02ba5b41e5a5a7914b6682a",
+  "slug": "hero-katarina-barbarian",
+  "thumb_w": 480,
+  "thumb_h": 699
+ },
+ "hero_kellam_bard.jpg": {
+  "hash": "3c9deb607a25a1a5bcea3f773c5ecfd71afb65217cdbd230f097ecc73011b678",
+  "slug": "hero-kellam-bard",
+  "thumb_w": 480,
+  "thumb_h": 428
+ },
+ "hero_khuz.jpg": {
+  "hash": "58bcb7a40129c14d98f9b2d95f32af83f02bcab65d5f08696fc35b1bc1950cde",
+  "slug": "hero-khuz",
+  "thumb_w": 480,
+  "thumb_h": 629
+ },
+ "hero_kronk.jpg": {
+  "hash": "97a0beea7a991826b5cb463782b168855b5b70d4b966e134234a22dbcd87366c",
+  "slug": "hero-kronk",
+  "thumb_w": 480,
+  "thumb_h": 514
+ },
+ "hero_lizard.jpg": {
+  "hash": "7d9e97f97ce7a468e6629a3c79a4a4ed0f9a65257e10353c4172e60a944bfb93",
+  "slug": "hero-lizard",
+  "thumb_w": 480,
+  "thumb_h": 530
+ },
+ "hero_lordwrath_knight.jpg": {
+  "hash": "b3b233447033cab32d3a6ec5395cd7d69da666b2411a72ff73dadc39e132ee77",
+  "slug": "hero-lordwrath-knight",
+  "thumb_w": 480,
+  "thumb_h": 597
+ },
+ "hero_lorelai_mage.jpg": {
+  "hash": "72e52e987d375048f67e496c44baafef459c2491b899befd0378bd69c627b8c5",
+  "slug": "hero-lorelai-mage",
+  "thumb_w": 480,
+  "thumb_h": 666
+ },
+ "hero_maeliss.jpg": {
+  "hash": "337ba64456d073a66a63b0c64ce0ebc661cd60219fe5bbf3b83ec6fb6711245a",
+  "slug": "hero-maeliss",
+  "thumb_w": 480,
+  "thumb_h": 566
+ },
+ "hero_maya_ranger.jpg": {
+  "hash": "627d3d7250c44d9c7d4ddfb007e24b4934b844b3252a4c9903c8545ecf18770a",
+  "slug": "hero-maya-ranger",
+  "thumb_w": 480,
+  "thumb_h": 634
+ },
+ "hero_milena_sorceress.jpg": {
+  "hash": "7a9c19015e42309098f4684a52f523a178a34572cc9d03e4ce969d4f5d431225",
+  "slug": "hero-milena-sorceress",
+  "thumb_w": 480,
+  "thumb_h": 677
+ },
+ "hero_modred_necromancer.jpg": {
+  "hash": "c3fc5b6d1ec8f5a259843f6ce39b7115ae515d1097c4a6a936697677702b2e19",
+  "slug": "hero-modred-necromancer",
+  "thumb_w": 480,
+  "thumb_h": 668
+ },
+ "hero_nyx_succubus.jpg": {
+  "hash": "0a2f2024edcb09a757c395a5a2019d23a147aa53d433bd0940f481be64fd3b00",
+  "slug": "hero-nyx-succubus",
+  "thumb_w": 480,
+  "thumb_h": 417
+ },
+ "hero_pietro_cleric.jpg": {
+  "hash": "a82bc9c9ff9fd991709c368861c03a76e18ee9c6b77ae9109b81edb194fa8a73",
+  "slug": "hero-pietro-cleric",
+  "thumb_w": 480,
+  "thumb_h": 683
+ },
+ "hero_quartermeister.jpg": {
+  "hash": "4535b5ea1d896deb31e042caacf43cd99bbf36571f41d15be4ffb4088ec543e9",
+  "slug": "hero-quartermeister",
+  "thumb_w": 480,
+  "thumb_h": 646
+ },
+ "hero_ranger.jpg": {
+  "hash": "f18cd11692ae84d72281e92d9469a7a6e3e26120eb401d4cb64325f6efaf334c",
+  "slug": "hero-ranger",
+  "thumb_w": 480,
+  "thumb_h": 594
+ },
+ "hero_sahara_shaman.jpg": {
+  "hash": "59c0e489165b326a5da86f2901f983b11ce642fb9772562db3f5e2564edc63f7",
+  "slug": "hero-sahara-shaman",
+  "thumb_w": 480,
+  "thumb_h": 629
+ },
+ "hero_savran_druid.jpg": {
+  "hash": "007ab64b35604a73fce98b94d60a4b63e55efa5c58d3700572315f756d547e30",
+  "slug": "hero-savran-druid",
+  "thumb_w": 480,
+  "thumb_h": 470
+ },
+ "hero_shadow_assassin.jpg": {
+  "hash": "4ddc5c22875345d3d44716a4e6f3310a558dcb23c2a6422a3d8dd777549032f3",
+  "slug": "hero-shadow-assassin",
+  "thumb_w": 480,
+  "thumb_h": 566
+ },
+ "hero_shara.jpg": {
+  "hash": "7e4b2034aed16760fb64912ddfd10238e0bd6fd0c3d104559d29120adc45caf9",
+  "slug": "hero-shara",
+  "thumb_w": 480,
+  "thumb_h": 564
+ },
+ "hero_siegfried_cutthroat.jpg": {
+  "hash": "f4d9b57c29e67a3a036ada34f719ad6bc4743e253fb638c1142ae899fcd54cc5",
+  "slug": "hero-siegfried-cutthroat",
+  "thumb_w": 480,
+  "thumb_h": 577
+ },
+ "hero_siff_necromancer.jpg": {
+  "hash": "abcb999095012427b0a0627113f7fd8609fc64f4127799755b9a30ebca18df34",
+  "slug": "hero-siff-necromancer",
+  "thumb_w": 480,
+  "thumb_h": 644
+ },
+ "hero_sorceress.jpg": {
+  "hash": "735a49188b5bf3a4da2408f8b8637efb54405af4e3b6265040f23be441d00555",
+  "slug": "hero-sorceress",
+  "thumb_w": 480,
+  "thumb_h": 569
+ },
+ "hero_sskar_mage.jpg": {
+  "hash": "f8a70c949252040df2768f53a8fe06ef6d710efc42bf0d912d16d4f44344be8b",
+  "slug": "hero-sskar-mage",
+  "thumb_w": 480,
+  "thumb_h": 626
+ },
+ "hero_sun_monk.jpg": {
+  "hash": "8eea6b0a1921e822cc60f5bda3c69d177d43bb4bcd7ab60c448f696f25b2bf2c",
+  "slug": "hero-sun-monk",
+  "thumb_w": 480,
+  "thumb_h": 717
+ },
+ "hero_taeral.jpg": {
+  "hash": "fee12be1e728729c57e944d85bc6e01ac64467b47294cb386f433c990ec8f6f2",
+  "slug": "hero-taeral",
+  "thumb_w": 480,
+  "thumb_h": 544
+ },
+ "hero_tork_barbarian.jpg": {
+  "hash": "258477ef6b25d8a994aebca785c3fcbb8125c714aced9819ad0d201800ce0e63",
+  "slug": "hero-tork-barbarian",
+  "thumb_w": 480,
+  "thumb_h": 634
+ },
+ "hero_vacren_warrior.jpg": {
+  "hash": "f73873025277185df6a2300c65e6c029da1ca157b28e9272d5e1d96f96126de1",
+  "slug": "hero-vacren-warrior",
+  "thumb_w": 480,
+  "thumb_h": 738
+ },
+ "hero_vorn_warrior.jpg": {
+  "hash": "80b541ace4d8035ef38a61a533a8779282d4b7f52f48b3822971a6c934495c90",
+  "slug": "hero-vorn-warrior",
+  "thumb_w": 480,
+  "thumb_h": 334
+ },
+ "hero_wilhelm_landsknecht.jpg": {
+  "hash": "04578e851999c7890cba6427142eb5344dff174441539c62e4cae959afdc46fa",
+  "slug": "hero-wilhelm-landsknecht",
+  "thumb_w": 480,
+  "thumb_h": 776
+ },
+ "hero_willow_druid.jpg": {
+  "hash": "c393e010d1afbd3c3e35240f2c3f4090d9d26bc2c77cc38638f856c26d81ef99",
+  "slug": "hero-willow-druid",
+  "thumb_w": 480,
+  "thumb_h": 618
+ },
+ "hero_witch.jpg": {
+  "hash": "2e8742bb2cdfca44c67eadb9e5f97f01fd5bb00e36091685ec515ac64c133860",
+  "slug": "hero-witch",
+  "thumb_w": 480,
+  "thumb_h": 613
+ },
+ "horror_dhole.jpg": {
+  "hash": "8b496f280c9f19a23cbe4d00af9fb9081f3135d36c17b54ed79e2af69ff894e8",
+  "slug": "horror-dhole",
+  "thumb_w": 480,
+  "thumb_h": 596
+ },
+ "horror_fisher.jpg": {
+  "hash": "9ffac0dc9599fa08082b50d16fbd06b4421435ea22a36a4ebd4508be65b7ae41",
+  "slug": "horror-fisher",
+  "thumb_w": 480,
+  "thumb_h": 467
+ },
+ "horror_gug.jpg": {
+  "hash": "26d2d2cc0e7fe156dd4e003c567896077014c437c4da9213bc03e306f08d3be0",
+  "slug": "horror-gug",
+  "thumb_w": 480,
+  "thumb_h": 434
+ },
+ "horror_gyaa_yoth.jpg": {
+  "hash": "1901dab3de4271806cb356aa3d7e83442cf03d58f0c377673801ce6eb60d4904",
+  "slug": "horror-gyaa-yoth",
+  "thumb_w": 480,
+  "thumb_h": 412
+ },
+ "horror_hunting_horror.jpg": {
+  "hash": "674dada9e32eeb2d1de2c728707f9297e9b521c383fdb3c8917d78d75eb4f838",
+  "slug": "horror-hunting-horror",
+  "thumb_w": 480,
+  "thumb_h": 794
+ },
+ "horror_unnamable.jpg": {
+  "hash": "2676436dd5ef0139ccbd77784f5dc25781fba84e0219c38889364ac56ad310b8",
+  "slug": "horror-unnamable",
+  "thumb_w": 480,
+  "thumb_h": 482
+ },
+ "horror_vampire.jpg": {
+  "hash": "ac17a71ca87a0643a12daedce6b13f60b5c24e8cdd63872c3ff9da738d6f4348",
+  "slug": "horror-vampire",
+  "thumb_w": 480,
+  "thumb_h": 516
+ },
+ "human_bandit_club.jpg": {
+  "hash": "f68fdf4b9740a1b6eb1168c43d6d6abb5f9ec71375fd8c5ff3ba5265443da756",
+  "slug": "human-bandit-club",
+  "thumb_w": 480,
+  "thumb_h": 644
+ },
+ "human_bandit_crossbow.jpg": {
+  "hash": "41cdae3aa942e9317f1561d8d6b7722a477396ac816acdc9fb320da168c76e10",
+  "slug": "human-bandit-crossbow",
+  "thumb_w": 480,
+  "thumb_h": 595
+ },
+ "human_bandit_dagger.jpg": {
+  "hash": "3fe5aa2407ef03d7b4c346a018f0e8eec59873774d297e7b21cc0d12dcf36a07",
+  "slug": "human-bandit-dagger",
+  "thumb_w": 480,
+  "thumb_h": 577
+ },
+ "human_bandit_murderer.jpg": {
+  "hash": "3076736829677f9de7d718d44d220d8747ab91a617d62a3a727cd11bce41054b",
+  "slug": "human-bandit-murderer",
+  "thumb_w": 480,
+  "thumb_h": 486
+ },
+ "human_bandit_sable.jpg": {
+  "hash": "1865256e3a6ebb0accb925ee3b3e8345a8a36298a4c7a5d273c41a535a3c41e7",
+  "slug": "human-bandit-sable",
+  "thumb_w": 480,
+  "thumb_h": 661
+ },
+ "human_corrupted.jpg": {
+  "hash": "267e144bf411b16d80b0fa6d63c03f38ea90c6291fac803e00ed5a5714a87013",
+  "slug": "human-corrupted",
+  "thumb_w": 480,
+  "thumb_h": 592
+ },
+ "human_corrupted_beast.jpg": {
+  "hash": "c399026d95c7766aeb2401d2ef6bd2e09744286d66cdb9f857767d2926a7c8ee",
+  "slug": "human-corrupted-beast",
+  "thumb_w": 480,
+  "thumb_h": 585
+ },
+ "human_corrupted_chain.jpg": {
+  "hash": "0b26d6a941d0dfe734e094b640db4bf33c21eb6be7b89a1072b1650e4c66cc78",
+  "slug": "human-corrupted-chain",
+  "thumb_w": 480,
+  "thumb_h": 624
+ },
+ "human_corrupted_doctor.jpg": {
+  "hash": "ac64ddaef83516acba4f2df4f6223cb801e2be94dbf4584c13b6164558ffe20e",
+  "slug": "human-corrupted-doctor",
+  "thumb_w": 480,
+  "thumb_h": 719
+ },
+ "human_corrupted_sixhanded.jpg": {
+  "hash": "3f532118a49780f5bbbf255bbf35ad7497cb0b312ec213db7bc16de646741b18",
+  "slug": "human-corrupted-sixhanded",
+  "thumb_w": 480,
+  "thumb_h": 546
+ },
+ "human_corrupted_tentacles.jpg": {
+  "hash": "5eefa803488d3abc182fe13bfd2e6ba8f64161a595a64fc802a28751bbee949c",
+  "slug": "human-corrupted-tentacles",
+  "thumb_w": 480,
+  "thumb_h": 461
+ },
+ "human_cultist_1.jpg": {
+  "hash": "368e6899a189ae872a679a484f5182bb290c3a993f366eca56551c439264ae39",
+  "slug": "human-cultist-1",
+  "thumb_w": 480,
+  "thumb_h": 712
+ },
+ "human_cultist_2.jpg": {
+  "hash": "395223ffd869d4ed9996a0f12f42f19940e19f6447819fdf391b503f1e2bae35",
+  "slug": "human-cultist-2",
+  "thumb_w": 480,
+  "thumb_h": 869
+ },
+ "human_cultist_3.jpg": {
+  "hash": "72424c7beb93e52cee87342059a4a9307633be44bead30f3b4d82c875da86b89",
+  "slug": "human-cultist-3",
+  "thumb_w": 480,
+  "thumb_h": 609
+ },
+ "human_cultist_4.jpg": {
+  "hash": "b17dfab1ac1924d89ce26543663be1913963b90d5989b60381b774647ea743a5",
+  "slug": "human-cultist-4",
+  "thumb_w": 480,
+  "thumb_h": 657
+ },
+ "human_cultist_5.jpg": {
+  "hash": "2512df647ffd7cd287deca919bca6648eaf29505c66888558e90bda51630a0e0",
+  "slug": "human-cultist-5",
+  "thumb_w": 480,
+  "thumb_h": 657
+ },
+ "human_executioner_scythe.jpg": {
+  "hash": "07b15d29974f9a5cf2414009f3085d27da43a7d9cfe972e9d2756b25e4180680",
+  "slug": "human-executioner-scythe",
+  "thumb_w": 480,
+  "thumb_h": 641
+ },
+ "human_female_knight_axe.jpg": {
+  "hash": "1497062baef9c80cf4b28cac6eaf918074c913390cae87759a0c47484c35582a",
+  "slug": "human-female-knight-axe",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "human_knight_sable.jpg": {
+  "hash": "f7b911011f5c18c94580566ddfb1bb01b1e7b6feaaf7191ac38011590a7a906c",
+  "slug": "human-knight-sable",
+  "thumb_w": 480,
+  "thumb_h": 595
+ },
+ "human_knight_sword_shield_m.jpg": {
+  "hash": "7cf45982b42ca798d806ffe1e60aeb7f6daf262a4c3c2bc180a0581196810498",
+  "slug": "human-knight-sword-shield-m",
+  "thumb_w": 480,
+  "thumb_h": 661
+ },
+ "human_merc_captain.jpg": {
+  "hash": "e09a973ae4e02df4e48c967c6b1f006f95e20b672f44f6a1abc62e6fa9815f9a",
+  "slug": "human-merc-captain",
+  "thumb_w": 480,
+  "thumb_h": 685
+ },
+ "human_port_thug.jpg": {
+  "hash": "293ce2b0d669e226be13bb23879314dfcf1686d10b621820bdc90d2e6f1f1645",
+  "slug": "human-port-thug",
+  "thumb_w": 480,
+  "thumb_h": 620
+ },
+ "human_soldier_crossbow.jpg": {
+  "hash": "9b26a1970bd67acd54ed836da8b4fe6847442f859f08b2f138906398c24fdc37",
+  "slug": "human-soldier-crossbow",
+  "thumb_w": 480,
+  "thumb_h": 560
+ },
+ "human_soldier_handgunner.jpg": {
+  "hash": "7a7edd70f872ed3373044d51b9d8e6b4e1ad0fa944c53e444e14bf4584e39e3d",
+  "slug": "human-soldier-handgunner",
+  "thumb_w": 480,
+  "thumb_h": 560
+ },
+ "human_soldier_raubritter.jpg": {
+  "hash": "76ea2f19ad40aa49206f5c51cff1a63e6a788ca94d78a7a76bbc6ba2f56be90f",
+  "slug": "human-soldier-raubritter",
+  "thumb_w": 480,
+  "thumb_h": 560
+ },
+ "human_witch.jpg": {
+  "hash": "bfea2f99455465541cdf89ebbb0873301166f24d6418cea00f6f6a8e1664a62d",
+  "slug": "human-witch",
+  "thumb_w": 480,
+  "thumb_h": 617
+ },
+ "kobold_archer_m.jpg": {
+  "hash": "0a28f054d1994989e4cd1db1edf4a29c4f79ea8077aa5543bd34ebddd88f4312",
+  "slug": "kobold-archer-m",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "lizard_warrior_m.jpg": {
+  "hash": "c86e400bdf69c58c36d3938bbb93f74b75865597d450dbe8f071e0a0eabfd051",
+  "slug": "lizard-warrior-m",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "lizardfolk_serpent.jpg": {
+  "hash": "9c84c367da275ed3f09b496d53252587212bee43fdd51bd30342253e9e341ca7",
+  "slug": "lizardfolk-serpent",
+  "thumb_w": 480,
+  "thumb_h": 598
+ },
+ "magic_flying_caster_m.jpg": {
+  "hash": "cd31a63d05b9ea5377b3ea4e63c017be61052549dc1682b5b0dabdf52e48943e",
+  "slug": "magic-flying-caster-m",
+  "thumb_w": 480,
+  "thumb_h": 619
+ },
+ "magic_hag_m.jpg": {
+  "hash": "6694ecd909684c42e8f108a82aa03598e0f93d8298b7398fef090861da90e519",
+  "slug": "magic-hag-m",
+  "thumb_w": 480,
+  "thumb_h": 581
+ },
+ "merfolk_trident_m.jpg": {
+  "hash": "56c40e61a96e6b71d135dafd790ea771d0b4337c5ba436a73ac4184c48c48236",
+  "slug": "merfolk-trident-m",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "monster_adephaga.jpg": {
+  "hash": "c1eb90a4d0d65441d6a398b92a3e58374ab481d6b0b33ef44fdedb4624f55ee2",
+  "slug": "monster-adephaga",
+  "thumb_w": 480,
+  "thumb_h": 373
+ },
+ "monster_blattaria.jpg": {
+  "hash": "d9be97a5e1d8c44fc94330ab87aa371ae6862fa269d039faa914cbbd9179724b",
+  "slug": "monster-blattaria",
+  "thumb_w": 480,
+  "thumb_h": 503
+ },
+ "monster_dream_titan.jpg": {
+  "hash": "18d5ad793935e431d6671e6e49fc84c67bf197507fce6824f6da01d35da66a95",
+  "slug": "monster-dream-titan",
+  "thumb_w": 480,
+  "thumb_h": 651
+ },
+ "monster_ettercap_m.jpg": {
+  "hash": "03a369137107fac314af1877b43e2f8d99a9872deceb65204c55fb39220a1224",
+  "slug": "monster-ettercap-m",
+  "thumb_w": 480,
+  "thumb_h": 574
+ },
+ "monster_gargoyle_m.jpg": {
+  "hash": "e3aff14baaf2067eaf6dba5c2fa6bf44ed382362be12cc202f9ed4c610e420b5",
+  "slug": "monster-gargoyle-m",
+  "thumb_w": 480,
+  "thumb_h": 591
+ },
+ "monster_hispa.jpg": {
+  "hash": "3e7d6147aef26eac3e837cbba5155375695f15fa3d6abb2088cd0a57f52423d8",
+  "slug": "monster-hispa",
+  "thumb_w": 480,
+  "thumb_h": 396
+ },
+ "monster_hound.jpg": {
+  "hash": "6fa24d6c109593dec7980f87e72610179346779b70fb2c23e700efd8e40f7339",
+  "slug": "monster-hound",
+  "thumb_w": 480,
+  "thumb_h": 369
+ },
+ "monster_lucanus.jpg": {
+  "hash": "d2e79c93a620985a5ce62fc5d10c16a806e35d6b5f2bfd542064ecd9127d08f9",
+  "slug": "monster-lucanus",
+  "thumb_w": 480,
+  "thumb_h": 422
+ },
+ "monster_megaloptera.jpg": {
+  "hash": "4b060449b34f59a5a5e9218ef1f385308e4ec1a1fe65ea452ff1d07f1d9af675",
+  "slug": "monster-megaloptera",
+  "thumb_w": 480,
+  "thumb_h": 411
+ },
+ "monster_mimic.jpg": {
+  "hash": "42414c94ded0f091ff8a1436b7bf933f3d0849697c408402fe87b92394cc9296",
+  "slug": "monster-mimic",
+  "thumb_w": 480,
+  "thumb_h": 283
+ },
+ "monster_minotaur.jpg": {
+  "hash": "10f3c9286233986c2876508cf0e3601d1bc44e2941e760b37807e40051818845",
+  "slug": "monster-minotaur",
+  "thumb_w": 480,
+  "thumb_h": 615
+ },
+ "monster_nasicornis.jpg": {
+  "hash": "5370820b3671081ac4427d0323ecda654d7deac40d727bbaf77a5f7a389264c7",
+  "slug": "monster-nasicornis",
+  "thumb_w": 480,
+  "thumb_h": 400
+ },
+ "monster_scolopendra.jpg": {
+  "hash": "e7f8c6bb992af12fc8220064bffcff41122c7bc4ddc93901d8d2bb4ebac4d220",
+  "slug": "monster-scolopendra",
+  "thumb_w": 480,
+  "thumb_h": 597
+ },
+ "monster_star_spawn.jpg": {
+  "hash": "2484a8ced46552e5de48741ba7484a0a7d41dd4e3bb5b684a7adc88ab95a5a12",
+  "slug": "monster-star-spawn",
+  "thumb_w": 480,
+  "thumb_h": 601
+ },
+ "monster_troglodyte.jpg": {
+  "hash": "e45cb1cc2b941f967d030ac84b3309b05fa22fd8d276a408ba1a264562070bfe",
+  "slug": "monster-troglodyte",
+  "thumb_w": 480,
+  "thumb_h": 413
+ },
+ "monster_worm.jpg": {
+  "hash": "cddcdc141e6ca5afb416c70f5f6cc92549a083c5c8abf7bbb3bdd57ae7235929",
+  "slug": "monster-worm",
+  "thumb_w": 480,
+  "thumb_h": 356
+ },
+ "mythic_gorgon.jpg": {
+  "hash": "4377ef774f9434294b640c575ac38070b9e6fbdcfa2884c1673d1926558c3bdb",
+  "slug": "mythic-gorgon",
+  "thumb_w": 480,
+  "thumb_h": 578
+ },
+ "mythic_gorgon_witch.jpg": {
+  "hash": "da15107c81200276e85d53fd21915c5edb9f80d78c192f8e37051d6dab739077",
+  "slug": "mythic-gorgon-witch",
+  "thumb_w": 480,
+  "thumb_h": 639
+ },
+ "mythic_medusa_m.jpg": {
+  "hash": "faddeca4a616dc6bdddf9e72f7603d831f19b5b0a04ad8c9a05536fcdff7719f",
+  "slug": "mythic-medusa-m",
+  "thumb_w": 480,
+  "thumb_h": 587
+ },
+ "orc_twohanded_axe_l.jpg": {
+  "hash": "b32fc8a50a308d90fd96c7997a185c77c26ea81907f0bf2c372645c6521b4e04",
+  "slug": "orc-twohanded-axe-l",
+  "thumb_w": 480,
+  "thumb_h": 418
+ },
+ "undead_abomination.jpg": {
+  "hash": "4fa5c03691af9b236c02bfb75c8bf09051d145aaf1a5ca47a77b249d6da4d3bd",
+  "slug": "undead-abomination",
+  "thumb_w": 480,
+  "thumb_h": 484
+ },
+ "undead_abomination_scythe.jpg": {
+  "hash": "e3735208b2e7f6f780be99ac8dc8217f61a0ae9b45a3c90b62897727305866be",
+  "slug": "undead-abomination-scythe",
+  "thumb_w": 480,
+  "thumb_h": 448
+ },
+ "undead_beholder.jpg": {
+  "hash": "a163a651a83ee65e39c5e936e9dd3c0cdfd6d1b69ff84354c5231b74f69350af",
+  "slug": "undead-beholder",
+  "thumb_w": 480,
+  "thumb_h": 533
+ },
+ "undead_faceless_conjurer.jpg": {
+  "hash": "cbf626d6e73bc46a81e87bdebec4b07adc83e53c58146a304ecb6db7080481e9",
+  "slug": "undead-faceless-conjurer",
+  "thumb_w": 480,
+  "thumb_h": 563
+ },
+ "undead_ghast_2.jpg": {
+  "hash": "2a3ba07c85e7da62e0782326189394e599aeb2ffde3badae16bd4a34f5b6983d",
+  "slug": "undead-ghast-2",
+  "thumb_w": 480,
+  "thumb_h": 479
+ },
+ "undead_ghast_m.jpg": {
+  "hash": "535b57e5fea803832824013211b6b1f1294eecac7ebd75064fcdb22b34fdf99b",
+  "slug": "undead-ghast-m",
+  "thumb_w": 480,
+  "thumb_h": 612
+ },
+ "undead_ghost_m.jpg": {
+  "hash": "dd239a40e017a2792265572772898f7fb9560a1a11604b6e5d21227abbf08dfb",
+  "slug": "undead-ghost-m",
+  "thumb_w": 480,
+  "thumb_h": 506
+ },
+ "undead_knight_sword_chain.jpg": {
+  "hash": "04a4261b263b0eca0a49f740454620ae831410c2c85e00eb63feb47de96b4d91",
+  "slug": "undead-knight-sword-chain",
+  "thumb_w": 480,
+  "thumb_h": 594
+ },
+ "undead_reaper.jpg": {
+  "hash": "fcbac78ebcc8e6509638981c69e6166a1725cdc9b7e8d5b2fb0c6c8a5ce2b142",
+  "slug": "undead-reaper",
+  "thumb_w": 480,
+  "thumb_h": 480
+ },
+ "undead_rotten_flesh.jpg": {
+  "hash": "9df13b9e2f40ced01b264b05077daa42217075ee77b80b2687a5076e12ae0bd4",
+  "slug": "undead-rotten-flesh",
+  "thumb_w": 480,
+  "thumb_h": 510
+ },
+ "undead_seer.jpg": {
+  "hash": "8422d5bd0711f6497ebb7647ad7bf975c79278c7e4f4bf231cc15d04fd69c650",
+  "slug": "undead-seer",
+  "thumb_w": 480,
+  "thumb_h": 690
+ },
+ "undead_shadow_cultist.jpg": {
+  "hash": "8726152c5fd64b5fd6e2661881e94645737213b1cf00781e3a0eae9c52a85364",
+  "slug": "undead-shadow-cultist",
+  "thumb_w": 480,
+  "thumb_h": 503
+ },
+ "undead_shadow_vampire.jpg": {
+  "hash": "6a73fee07b3a3948a283da8f3a74c8662f42459fa6cc5a713809910eaa56789c",
+  "slug": "undead-shadow-vampire",
+  "thumb_w": 480,
+  "thumb_h": 595
+ },
+ "undead_skeleton_archer.jpg": {
+  "hash": "950f6b0028dd82003b3a990b5a2032bda29701955cd2e4af6e488058591f22d8",
+  "slug": "undead-skeleton-archer",
+  "thumb_w": 480,
+  "thumb_h": 572
+ },
+ "undead_skeleton_knight_sword.jpg": {
+  "hash": "f93328bc05bb8836c3166b35fa9d5888776578a6e6559c3db08b8ba43de3a269",
+  "slug": "undead-skeleton-knight-sword",
+  "thumb_w": 480,
+  "thumb_h": 573
+ },
+ "undead_skeleton_shield_m.jpg": {
+  "hash": "de750f74747659173f437c35135af4208194d58953519f65a3f66eabeef09c56",
+  "slug": "undead-skeleton-shield-m",
+  "thumb_w": 480,
+  "thumb_h": 493
+ },
+ "undead_vampire_m.jpg": {
+  "hash": "ce767f0eafedb562f1f1d8a90c3755dda0094792b8e09f45df9fcb246689a2f8",
+  "slug": "undead-vampire-m",
+  "thumb_w": 480,
+  "thumb_h": 584
+ },
+ "undead_werefolf_m.jpg": {
+  "hash": "3110431f18ed95dcd23e06599162ee7475b20be0cecc0e5778b917754c68fba0",
+  "slug": "undead-werefolf-m",
+  "thumb_w": 480,
+  "thumb_h": 507
+ },
+ "undead_werewolf_wolfform.jpg": {
+  "hash": "a50b6cd2fe925429a6219b1e65e7caad193f9976d719c89dc96afb08f92adddc",
+  "slug": "undead-werewolf-wolfform",
+  "thumb_w": 480,
+  "thumb_h": 366
+ },
+ "undead_wraith.jpg": {
+  "hash": "99252f9367ceb76fcb5cdb4086ef035820aca29d1cea968b715215683f81cf98",
+  "slug": "undead-wraith",
+  "thumb_w": 480,
+  "thumb_h": 602
+ },
+ "undead_zombie_armored_m.jpg": {
+  "hash": "09a1854dad736b42997c130e72bd4d61e6ea3568204768ec03f96a4bd8da958d",
+  "slug": "undead-zombie-armored-m",
+  "thumb_w": 480,
+  "thumb_h": 507
+ }
+}

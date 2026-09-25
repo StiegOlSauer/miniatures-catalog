@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Miniatures Catalog</title>
+<meta name="description" content="A browsable catalog of a TTRPG miniature collection.">
+<link rel="stylesheet" href="style.css?v=7">
+</head>
+<body>
+
+<header class="site-header">
+  <h1 class="site-title">Miniatures Catalog</h1>
+
+  <div class="search-wrap">
+    <div id="combobox" class="combobox">
+      <div id="chip-row" class="chip-row"></div>
+      <input id="search-input" type="text" autocomplete="off" spellcheck="false"
+             placeholder="Search names, kinds, tags…"
+             role="combobox" aria-haspopup="listbox" aria-autocomplete="list"
+             aria-expanded="false" aria-controls="suggest-list">
+      <button type="button" id="search-clear" class="search-clear-btn" aria-label="Clear search text" hidden>✕</button>
+    </div>
+    <ul id="suggest-list" class="suggest-list" role="listbox" hidden></ul>
+  </div>
+
+  <div class="facet-row">
+    <div class="facet" data-facet="origin">
+      <button type="button" class="facet-btn" aria-haspopup="true" aria-expanded="false">Origin ▾</button>
+      <div class="facet-popover" hidden></div>
+    </div>
+    <div class="facet" data-facet="size">
+      <button type="button" class="facet-btn" aria-haspopup="true" aria-expanded="false">Size ▾</button>
+      <div class="facet-popover" hidden></div>
+    </div>
+    <div class="facet" data-facet="location">
+      <button type="button" class="facet-btn" aria-haspopup="true" aria-expanded="false">Location ▾</button>
+      <div class="facet-popover" hidden></div>
+    </div>
+    <button type="button" id="clear-all" class="clear-all" hidden>Clear all</button>
+    <span id="result-count" class="result-count" aria-live="polite"></span>
+  </div>
+</header>
+
+<main id="main-layout">
+  <div id="gallery" class="gallery" aria-live="polite"></div>
+
+  <aside id="list-sidebar" class="list-sidebar" hidden aria-label="Shopping list">
+    <button type="button" id="list-collapse" class="list-collapse" aria-label="Collapse shopping list">›</button>
+    <div class="list-sidebar-inner">
+      <div class="list-header">
+        <h2>Shopping list</h2>
+        <button type="button" id="list-close" class="icon-btn" aria-label="Close shopping list">✕</button>
+      </div>
+      <div class="list-toolbar">
+        <div class="list-actions">
+          <button type="button" id="list-share" class="btn">Share link</button>
+          <button type="button" id="list-print" class="btn">Print / PDF</button>
+          <button type="button" id="list-clear" class="btn btn-danger">Clear</button>
+        </div>
+      </div>
+      <div id="list-note" class="list-note" hidden></div>
+      <div id="list-entries" class="list-entries"></div>
+      <div class="list-footer">
+        <div id="list-totals" class="list-totals"></div>
+      </div>
+    </div>
+  </aside>
+</main>
+
+<button type="button" id="list-fab" class="list-fab" hidden aria-label="Open shopping list">
+  <span id="list-fab-count">0</span>
+</button>
+
+<dialog id="model-dialog" class="model-dialog" aria-label="Model details">
+  <div class="model-dialog-inner">
+    <button type="button" id="dialog-close" class="icon-btn dialog-close" aria-label="Close">✕</button>
+    <button type="button" id="dialog-prev" class="dialog-nav dialog-prev" aria-label="Previous model">‹</button>
+    <button type="button" id="dialog-next" class="dialog-nav dialog-next" aria-label="Next model">›</button>
+    <div class="dialog-media">
+      <img id="dialog-image" class="dialog-image" src="" alt="" hidden>
+      <div id="dialog-placeholder" class="placeholder-art placeholder-art-lg" hidden>
+        <div class="placeholder-base"></div>
+        <span class="placeholder-caption">No photo yet</span>
+      </div>
+    </div>
+    <div class="dialog-body">
+      <p id="dialog-origin-kind" class="dialog-origin-kind"></p>
+      <h2 id="dialog-name" class="dialog-name"></h2>
+      <dl id="dialog-facts" class="dialog-facts"></dl>
+      <div id="dialog-tags" class="dialog-tags"></div>
+      <p id="dialog-madeby" class="dialog-madeby"></p>
+      <div id="dialog-list-control" class="dialog-list-control"></div>
+    </div>
+  </div>
+</dialog>
+
+<dialog id="share-dialog" class="share-dialog" aria-label="Load shared list">
+  <form method="dialog" class="share-dialog-inner">
+    <p id="share-dialog-text"></p>
+    <div class="share-dialog-actions">
+      <button type="submit" value="replace" class="btn">Replace my list</button>
+      <button type="submit" value="merge" class="btn">Merge</button>
+      <button type="submit" value="ignore" class="btn btn-ghost">Ignore</button>
+    </div>
+  </form>
+</dialog>
+
+<div id="toast" class="toast" hidden aria-live="polite"></div>
+
+<div id="print-view" class="print-view" aria-hidden="true"></div>
+
+<script type="module" src="js/app.js?v=7"></script>
+</body>
+</html>
