@@ -3,13 +3,13 @@
 // docs/js/*.js or docs/style.css file changes — otherwise a browser with an
 // old copy cached can run mismatched old/new files together and crash. See
 // HOSTING.md's troubleshooting section.
-import { loadCatalog } from "./data.js?v=7";
-import { buildIndex, buildSuggestionSource } from "./catalogIndex.js?v=7";
-import { renderGallery, applyFilters, getVisibleModelIds } from "./gallery.js?v=7";
-import { applyFilterFromButton } from "./filter.js?v=7";
-import { initSearch } from "./search.js?v=7";
-import { initDialog } from "./dialog.js?v=7";
-import { initList } from "./list.js?v=7";
+import { loadCatalog } from "./data.js?v=8";
+import { buildIndex, buildSuggestionSource } from "./catalogIndex.js?v=8";
+import { renderGallery, applyFilters, getVisibleModelIds } from "./gallery.js?v=8";
+import { applyFilterFromButton } from "./filter.js?v=8";
+import { initSearch } from "./search.js?v=8";
+import { initDialog } from "./dialog.js?v=8";
+import { initList } from "./list.js?v=8";
 
 // Keeps --header-h in sync with the sticky header's real height (it wraps
 // to more lines at narrow widths), so the docked shopping-list sidebar can

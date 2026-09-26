@@ -1,8 +1,8 @@
 // Builds the tile grid once, then just toggles [hidden] on filter changes
 // instead of re-rendering (see SPEC.md §4.10).
 
-import { escapeHtml, tileHTML } from "./render.js?v=7";
-import { matchesModel, tokenize } from "./filter.js?v=7";
+import { escapeHtml, tileHTML } from "./render.js?v=8";
+import { matchesModel, tokenize } from "./filter.js?v=8";
 
 export function renderGallery(container, catalog) {
   const groups = new Map(); // origin -> models, in first-seen order

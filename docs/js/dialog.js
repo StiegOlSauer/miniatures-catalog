@@ -1,7 +1,7 @@
 // The model detail popup. See SPEC.md §4.5.
 
-import { escapeHtml, basePct, linkify, linkButton, tagChipStyle } from "./render.js?v=7";
-import { applyFilterFromButton } from "./filter.js?v=7";
+import { escapeHtml, basePct, linkify, linkButton, tagChipStyle } from "./render.js?v=8";
+import { applyFilterFromButton } from "./filter.js?v=8";
 
 export function initDialog(ctx) {
   const dlg = document.getElementById("model-dialog");
@@ -75,7 +75,7 @@ export function initDialog(ctx) {
       <dt>Size</dt><dd>${linkButton("size", model.size)}</dd>
       <dt>Base</dt><dd>${model.base ? `${model.base} mm` : "—"}</dd>
       <dt>Quantity</dt><dd>${model.quantity}</dd>
-      <dt>Location</dt><dd>${linkButton("location", model.location)}</dd>
+      <dt>Storage</dt><dd>${linkButton("location", model.location)}</dd>
     `;
 
     tagsEl.innerHTML = ctx.catalog.tagFamilies
