@@ -906,7 +906,21 @@ a { color: var(--accent-2); }
   .tile-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
   .gallery { padding: 10px; }
   .site-header { padding: 8px 10px 10px; }
-  .facet-popover { position: fixed; left: 8px; right: 8px; top: auto; width: auto; min-width: 0; }
+  .facet-popover {
+    position: fixed;
+    /* top: auto here (with no bottom set either) falls back to the
+       element's "static position" — its would-be position in normal
+       flow — which Firefox on mobile recomputes while you scroll the
+       page behind it, making the popover visibly drift down the screen
+       and eventually off it. Anchor to the actual header height instead,
+       so it stays put regardless of scroll position. */
+    top: calc(var(--header-h, 56px) + 4px);
+    left: 8px;
+    right: 8px;
+    width: auto;
+    min-width: 0;
+    max-height: calc(100vh - var(--header-h, 56px) - 16px);
+  }
   .model-dialog-inner { grid-template-columns: 1fr; overflow-y: auto; }
   .dialog-media { min-height: 220px; }
 }

@@ -62,7 +62,7 @@ HOSTING.md            ← already exists; do not rewrite, only fix if commands c
    type `hum` → pick `Humans` (origin) → the gallery narrows after each pick.
 4. **"Pick a boss":** click the `boss` tag on any tile → browse all bosses → open a popup to see the photo
    large → add one to the list.
-5. **Inventory:** filter Location = `Nefra` → see everything stored there.
+5. **Inventory:** filter Storage = `Nefra` → see everything stored there.
 6. **Friend shares a list:** a friend builds a list → copies the share link → the owner opens it and loads
    the list.
 
@@ -104,7 +104,7 @@ The first row holds headers; each following row is one model. Header matching is
 | `Size` | yes | Creature size: one of `S, M, L, XL, XXL, XXXL` (this order is the sort order). |
 | `Base (mm)` | yes | Integer base size in mm; expected multiple of 25. |
 | `Quantity` | yes | Positive integer: number of identical copies. |
-| `Location` | yes | Physical storage place, e.g. `Nefra`, `CoD: AoW`, `WIP`. |
+| `Location` | yes | Physical storage place, e.g. `Nefra`, `CoD: AoW`, `WIP`. The sheet column, the internal chip type (`location`) and the `data.json` field all keep this name — only the on-screen label reads **"Storage"** (facet button, popup, grouping). |
 | `Tags: <Family>` | any number | Each column whose header starts with `Tags:` is one tag family; the family label is the text after `Tags:` (trimmed). Cell = comma-separated tags. The column order defines the family order and colors. Current families: `Fiction`, `Class`, `Details`. |
 | `Image` | no | File name of the photo in `--photos`, e.g. `undead_skeleton_archer.jpg`. |
 | `Made by` | no | Free text for humans (manufacturer / product, may contain URLs). Not searchable, not filterable. |
@@ -201,7 +201,8 @@ Written with `indent=1` and `ensure_ascii=False` so git diffs stay readable.
 **Header (sticky):**
 - Title "Miniatures Catalog" (small, left).
 - **Search combobox** (§4.3) taking most of the width, with active filter chips shown *inside* the field before the text cursor.
-- A row of facet buttons: **Origin ▾**, **Size ▾**, **Location ▾**. Each opens a popover with checkboxes and per-value
+- A row of facet buttons: **Origin ▾**, **Size ▾**, **Storage ▾** (labeled "Storage" on screen; backed by the
+  `Location` sheet column and `location` chip type, see §3.2). Each opens a popover with checkboxes and per-value
   model counts. Checking a box adds or removes the same chip as the search box does (there is a single filter state).
 - **Clear all** (visible when any filter is active).
 - A result counter: `42 of 271 models · 130 miniatures`.
@@ -225,7 +226,7 @@ Top to bottom:
    shows `✓ 2`, and clicking removes it).
 2. **Title**: the Name in bold; if Name is blank, use the Kind. Below it, a small line `Origin › Kind` where **Origin and
    Kind are separate clickable filters**.
-3. **Meta line**: size badge `M · 25 mm` (the size part is clickable → Size filter) and the location (clickable → Location filter).
+3. **Meta line**: size badge `M · 25 mm` (the size part is clickable → Size filter) and the storage location (clickable → Storage filter).
 4. **Tags**: all tags as colored chips (family color, §4.7), each clickable → tag filter. Tiles don't clamp tags; tag
    counts are small.
 
@@ -258,7 +259,7 @@ plus the free text currently typed in the input.
 - Suggestions come from all origins, kinds, locations, sizes and tags whose value word-prefix-matches the **last**
   typed token (or the whole text). Rank prefix-of-value matches before word-prefix matches, then by model count.
   Show up to 12. Each row shows the value styled as its chip (tag family color, etc.), a small type label
-  (`Origin`, `Kind`, `Location`, `Size`, or the tag family label), and the number of models that have it.
+  (`Origin`, `Kind`, `Storage`, `Size`, or the tag family label), and the number of models that have it.
   Hide values that are already active chips.
 - ↑/↓ moves the highlight, Enter or click picks → the chip is added, the matched token is removed from the text,
   and focus stays in the input so the user can keep typing. Esc closes the list. Enter with nothing
@@ -290,7 +291,7 @@ Use a native `<dialog>` (modal). Esc, the close button, or a click on the backdr
   first as a blurred-up placeholder, then swapped in when the full image loads. Clicking the image opens the full image file in a new tab.
   Placeholder models show the large placeholder.
 - **Right/bottom:** Name (or Kind), `Origin › Kind` (clickable), a definition list: Size (`M`, clickable), Base
-  (`25 mm`), Quantity, Location (clickable), then tags grouped by family with the family label, then **Made by**
+  (`25 mm`), Quantity, Storage (clickable), then tags grouped by family with the family label, then **Made by**
   (URLs turned into links with `target="_blank" rel="noopener"`).
 - **List control:** if the model isn't in the list, an "Add to list" button. If it is, a quantity stepper `− 2 / 6 +` and "Remove".
 - **Prev / Next** buttons and ←/→ keys move through the *currently filtered* models.
@@ -322,7 +323,7 @@ in `data.json` and clamp quantities to `[1, model.quantity]`; if anything was dr
   content instead of scrolling, overflowing the sidebar the same way.
 - **Toolbar** (directly under the "Shopping list" heading, always visible without scrolling): buttons
   **Share link**, **Print / PDF**, **Clear** (with a confirm).
-- **Content:** entries **grouped by Location** (sorted alphabetically, blank location last as "No location"), and within a
+- **Content:** entries **grouped by Storage** (sorted alphabetically, blank location last as "No storage"), and within a
   group in sheet order. Each entry has a thumbnail (48 px), `Origin › Kind › Name`, size, a quantity stepper
   `− n / max +` (bounded 1…max; `−` at 1 is disabled, use the remove button instead), and a remove `×`. Clicking the
   thumbnail or name opens the popup.
@@ -349,7 +350,7 @@ in `data.json` and clamp quantities to `[1, model.quantity]`; if anything was dr
 **Print / PDF:** `window.print()` with a print stylesheet. In print mode, hide the entire app and show only a
 print-specific list (render it into a hidden `#print-view` container before printing):
 - Title "Miniatures list", the date, and totals.
-- Grouped by Location. Rows: an empty checkbox square (for ticking off while collecting), thumbnail (~40 px),
+- Grouped by Storage. Rows: an empty checkbox square (for ticking off while collecting), thumbnail (~40 px),
   `Origin › Kind › Name`, size/base, `qty picked / available`.
 - Black text on white, no backgrounds, and page breaks avoided inside rows.
 
@@ -427,6 +428,11 @@ Used in the tile, the popup and the list.
 
 - It must be usable on a phone (≥ 360 px): the grid can drop to 2 columns (minmax 150 px), facet popovers
   become full-width sheets, and the sidebar becomes a drawer (§4.6).
+  - The mobile popover is `position: fixed`. Give it an explicit `top` (e.g. anchored to the tracked
+    `--header-h`, §4.6) — **not** `top: auto`. A fixed box with both `top` and `bottom` auto falls back to
+    its normal-flow "static position", and at least mobile Firefox recomputes that while the page scrolls
+    behind it, so the popover visibly drifts down the screen (and eventually off it) as you scroll the
+    gallery with the popover still open.
 - Everything must be operable by keyboard. Images need alt text, and icon-only buttons need `aria-label`s.
 - Respect `prefers-reduced-motion`.
 
@@ -476,6 +482,11 @@ Used in the tile, the popup and the list.
     viewport height.
   - Collapse the sidebar, then clear the list down to empty and add something back — it must reopen expanded,
     not collapsed.
+  - At a narrow width, open a facet popover and scroll the gallery behind it (a real device or its emulator —
+    this doesn't reproduce in every engine): the popover must stay anchored below the header, not drift down
+    or off the screen.
+  - The "Storage" label appears everywhere the field is shown (facet button, popup, grouping, suggestion type
+    label) even though the sheet column, chip type and `data.json` field are still named `location`/`Location`.
 - Commit the generated `docs/` output along with the code.
 - If this is a follow-up change to an already-deployed site rather than the first build, bump the `?v=N` suffix
   (§1) on every file you touched, everywhere that suffix appears.

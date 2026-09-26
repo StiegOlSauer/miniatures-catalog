@@ -1,7 +1,7 @@
 // The shopping list: localStorage persistence, the sidebar, share links and
 // the print view. See SPEC.md §4.6.
 
-import { escapeHtml } from "./render.js?v=7";
+import { escapeHtml } from "./render.js?v=8";
 
 const STORAGE_KEY = "minicat.list.v1";
 
@@ -88,7 +88,7 @@ async function copyToClipboard(text) {
   return ok;
 }
 
-// Location -> [{model, qty}], blank location sorted last as "No location".
+// Location -> [{model, qty}], blank location sorted last as "No storage".
 function groupByLocation(map, catalog) {
   const groups = new Map();
   for (const model of catalog.models) {
@@ -173,7 +173,7 @@ export function initList(ctx, dialogApi) {
       entriesEl.innerHTML = groups
         .map(
           ([label, rows]) => `
-        <div class="list-group-label">${escapeHtml(label || "No location")}</div>
+        <div class="list-group-label">${escapeHtml(label || "No storage")}</div>
         ${rows
           .map(({ model, qty }) => {
             const max = model.quantity || 1;
@@ -280,7 +280,7 @@ export function initList(ctx, dialogApi) {
       ${groups
         .map(
           ([label, rows]) => `
-        <div class="print-group-label">${escapeHtml(label || "No location")}</div>
+        <div class="print-group-label">${escapeHtml(label || "No storage")}</div>
         <table>${rows
           .map(({ model, qty }) => {
             const name = model.name || model.kind || "(unnamed)";

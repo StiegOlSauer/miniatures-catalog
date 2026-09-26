@@ -1,9 +1,9 @@
 // The search combobox (chips + free text + suggestions) and the Origin /
 // Size / Location facet popovers. See SPEC.md §4.3.
 
-import { escapeHtml, slugify, chipSpanHTML, debounce } from "./render.js?v=7";
-import { hasChip, toggleChip } from "./filter.js?v=7";
-import { getSuggestions } from "./catalogIndex.js?v=7";
+import { escapeHtml, slugify, chipSpanHTML, debounce } from "./render.js?v=8";
+import { hasChip, toggleChip } from "./filter.js?v=8";
+import { getSuggestions } from "./catalogIndex.js?v=8";
 
 export function initSearch(ctx) {
   const input = document.getElementById("search-input");

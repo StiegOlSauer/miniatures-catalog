@@ -30,7 +30,7 @@ export function buildSuggestionSource(catalog, index) {
   const items = [];
   for (const [value, count] of index.origin) items.push({ type: "origin", value, count, typeLabel: "Origin" });
   for (const [value, count] of index.kind) items.push({ type: "kind", value, count, typeLabel: "Kind" });
-  for (const [value, count] of index.location) items.push({ type: "location", value, count, typeLabel: "Location" });
+  for (const [value, count] of index.location) items.push({ type: "location", value, count, typeLabel: "Storage" });
   for (const [value, count] of index.size) items.push({ type: "size", value, count, typeLabel: "Size" });
   for (const fam of catalog.tagFamilies) {
     for (const [value, count] of index.tags[fam.id]) {
